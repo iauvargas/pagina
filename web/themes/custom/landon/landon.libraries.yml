@@ -1,0 +1,20 @@
+
+global:
+  version: 1.x
+  css:
+    theme:
+      css/main.css: {}
+  js:
+    js/main.js: {}
+  dependencies:
+    - core/jquery
+
+front:
+  version: 1.x
+  css:
+    theme:
+      css/front.css: {}
+  js:
+    js/front.js: {}
+  dependencies:
+  - core/jquery

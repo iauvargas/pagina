@@ -1,0 +1,5 @@
+israel_tabla.ruta_tabla:
+  title: 'Tabla'
+  description: 'Tabla de ejemplo del israel'
+  route_name: israel_tabla.ruta_tabla
+  menu_name: 'main'

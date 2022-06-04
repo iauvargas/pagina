@@ -1,0 +1,6 @@
+name: "Israel db"
+type: module
+core_version_requirement: ^9
+package: "Israel"
+dependencies:
+  - drupal:node

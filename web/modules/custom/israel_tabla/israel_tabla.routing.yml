@@ -1,0 +1,6 @@
+israel_tabla.ruta_tabla:
+  path: '/israel/tabla'
+  defaults:
+    _controller: '\Drupal\israel_tabla\Controller\TablaController::tabla'
+  requirements:
+    _permission: 'israel acceder tabla'
